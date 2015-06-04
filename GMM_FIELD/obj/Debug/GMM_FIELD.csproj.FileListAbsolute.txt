@@ -1,0 +1,61 @@
+D:\GMM_FIELD\GMM_FIELD\bin\Debug\GMM_FIELD.exe.config
+D:\GMM_FIELD\GMM_FIELD\bin\Debug\GMM_FIELD.exe
+D:\GMM_FIELD\GMM_FIELD\bin\Debug\GMM_FIELD.pdb
+D:\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.csprojResolveAssemblyReference.cache
+D:\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.GMM.resources
+D:\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.Properties.Resources.resources
+D:\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.csproj.GenerateResource.Cache
+D:\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.exe
+D:\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.pdb
+D:\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.Информация_о_сфере.resources
+d:\ДИПЛОМ\GMM_FIELD\GMM_FIELD\bin\Debug\GMM_FIELD.exe.config
+d:\ДИПЛОМ\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.exe
+d:\ДИПЛОМ\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.pdb
+d:\ДИПЛОМ\GMM_FIELD\GMM_FIELD\bin\Debug\GMM_FIELD.exe
+d:\ДИПЛОМ\GMM_FIELD\GMM_FIELD\bin\Debug\GMM_FIELD.pdb
+d:\ДИПЛОМ\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.csprojResolveAssemblyReference.cache
+d:\ДИПЛОМ\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.GMM.resources
+d:\ДИПЛОМ\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.Properties.Resources.resources
+d:\ДИПЛОМ\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.Информация_о_сфере.resources
+d:\ДИПЛОМ\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.csproj.GenerateResource.Cache
+d:\ДИПЛОМ\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.About.resources
+d:\ДИПЛОМ\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.Result.resources
+c:\Users\GMM_FIELD\GMM_FIELD\bin\Debug\GMM_FIELD.exe.config
+c:\Users\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.exe
+c:\Users\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.pdb
+c:\Users\GMM_FIELD\GMM_FIELD\bin\Debug\GMM_FIELD.exe
+c:\Users\GMM_FIELD\GMM_FIELD\bin\Debug\GMM_FIELD.pdb
+c:\Users\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.csprojResolveAssemblyReference.cache
+c:\Users\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.About.resources
+c:\Users\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.GMM.resources
+c:\Users\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.Properties.Resources.resources
+c:\Users\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.Result.resources
+c:\Users\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.Информация_о_сфере.resources
+c:\Users\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.csproj.GenerateResource.Cache
+d:\ДИПЛОМ\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.Otobr.resources
+c:\ДИПЛОМ\GMM_FIELD\GMM_FIELD\bin\Debug\GMM_FIELD.exe.config
+c:\ДИПЛОМ\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.exe
+c:\ДИПЛОМ\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.pdb
+c:\ДИПЛОМ\GMM_FIELD\GMM_FIELD\bin\Debug\GMM_FIELD.exe
+c:\ДИПЛОМ\GMM_FIELD\GMM_FIELD\bin\Debug\GMM_FIELD.pdb
+c:\ДИПЛОМ\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.csprojResolveAssemblyReference.cache
+c:\ДИПЛОМ\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.About.resources
+c:\ДИПЛОМ\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.GMM.resources
+c:\ДИПЛОМ\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.Otobr.resources
+c:\ДИПЛОМ\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.Properties.Resources.resources
+c:\ДИПЛОМ\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.Result.resources
+c:\ДИПЛОМ\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.Информация_о_сфере.resources
+c:\ДИПЛОМ\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.csproj.GenerateResource.Cache
+D:\olas\Учебная работа\Дипломное проектирование\Sources\Mokotrik\GMM_FIELD\GMM_FIELD\bin\Debug\GMM_FIELD.exe.config
+D:\olas\Учебная работа\Дипломное проектирование\Sources\Mokotrik\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.pdb
+D:\olas\Учебная работа\Дипломное проектирование\Sources\Mokotrik\GMM_FIELD\GMM_FIELD\bin\Debug\GMM_FIELD.exe
+D:\olas\Учебная работа\Дипломное проектирование\Sources\Mokotrik\GMM_FIELD\GMM_FIELD\bin\Debug\GMM_FIELD.pdb
+D:\olas\Учебная работа\Дипломное проектирование\Sources\Mokotrik\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.About.resources
+D:\olas\Учебная работа\Дипломное проектирование\Sources\Mokotrik\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.GMM.resources
+D:\olas\Учебная работа\Дипломное проектирование\Sources\Mokotrik\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.Otobr.resources
+D:\olas\Учебная работа\Дипломное проектирование\Sources\Mokotrik\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.Properties.Resources.resources
+D:\olas\Учебная работа\Дипломное проектирование\Sources\Mokotrik\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.Result.resources
+D:\olas\Учебная работа\Дипломное проектирование\Sources\Mokotrik\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.Информация_о_сфере.resources
+D:\olas\Учебная работа\Дипломное проектирование\Sources\Mokotrik\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.csproj.GenerateResource.Cache
+D:\olas\Учебная работа\Дипломное проектирование\Sources\Mokotrik\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.exe
+D:\olas\Учебная работа\Дипломное проектирование\Sources\Mokotrik\GMM_FIELD\GMM_FIELD\obj\Debug\GMM_FIELD.csprojResolveAssemblyReference.cache

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet2" targetNamespace="http://tempuri.org/DataSet2.xsd" xmlns:mstns="http://tempuri.org/DataSet2.xsd" xmlns="http://tempuri.org/DataSet2.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet2" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DataSet2" msprop:Generator_DataSetName="DataSet2">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Информация_о_сферах" msprop:Generator_TableClassName="Информация_о_сферахDataTable" msprop:Generator_TableVarName="tableИнформация_о_сферах" msprop:Generator_TablePropName="Информация_о_сферах" msprop:Generator_RowDeletingName="Информация_о_сферахRowDeleting" msprop:Generator_RowChangingName="Информация_о_сферахRowChanging" msprop:Generator_RowEvHandlerName="Информация_о_сферахRowChangeEventHandler" msprop:Generator_RowDeletedName="Информация_о_сферахRowDeleted" msprop:Generator_UserTableName="Информация_о_сферах" msprop:Generator_RowChangedName="Информация_о_сферахRowChanged" msprop:Generator_RowEvArgName="Информация_о_сферахRowChangeEvent" msprop:Generator_RowClassName="Информация_о_сферахRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Код" msdata:AutoIncrement="true" msprop:Generator_ColumnVarNameInTable="columnКод" msprop:Generator_ColumnPropNameInRow="Код" msprop:Generator_ColumnPropNameInTable="КодColumn" msprop:Generator_UserColumnName="Код" type="xs:int" />
+              <xs:element name="Код_сферы" msprop:Generator_ColumnVarNameInTable="columnКод_сферы" msprop:Generator_ColumnPropNameInRow="Код_сферы" msprop:Generator_ColumnPropNameInTable="Код_сферыColumn" msprop:Generator_UserColumnName="Код_сферы" type="xs:int" minOccurs="0" />
+              <xs:element name="Центр_сферы_по_координате_X" msprop:Generator_ColumnVarNameInTable="columnЦентр_сферы_по_координате_X" msprop:Generator_ColumnPropNameInRow="Центр_сферы_по_координате_X" msprop:Generator_ColumnPropNameInTable="Центр_сферы_по_координате_XColumn" msprop:Generator_UserColumnName="Центр_сферы_по_координате_X" type="xs:double" minOccurs="0" />
+              <xs:element name="Центр_сферы_по_координате_Y" msprop:Generator_ColumnVarNameInTable="columnЦентр_сферы_по_координате_Y" msprop:Generator_ColumnPropNameInRow="Центр_сферы_по_координате_Y" msprop:Generator_ColumnPropNameInTable="Центр_сферы_по_координате_YColumn" msprop:Generator_UserColumnName="Центр_сферы_по_координате_Y" type="xs:double" minOccurs="0" />
+              <xs:element name="Центр_сферы_по_координате_Z" msprop:Generator_ColumnVarNameInTable="columnЦентр_сферы_по_координате_Z" msprop:Generator_ColumnPropNameInRow="Центр_сферы_по_координате_Z" msprop:Generator_ColumnPropNameInTable="Центр_сферы_по_координате_ZColumn" msprop:Generator_UserColumnName="Центр_сферы_по_координате_Z" type="xs:double" minOccurs="0" />
+              <xs:element name="Радиус_сферы" msprop:Generator_ColumnVarNameInTable="columnРадиус_сферы" msprop:Generator_ColumnPropNameInRow="Радиус_сферы" msprop:Generator_ColumnPropNameInTable="Радиус_сферыColumn" msprop:Generator_UserColumnName="Радиус_сферы" type="xs:double" minOccurs="0" />
+              <xs:element name="Комплексный_показатель_преломления" msprop:Generator_ColumnVarNameInTable="columnКомплексный_показатель_преломления" msprop:Generator_ColumnPropNameInRow="Комплексный_показатель_преломления" msprop:Generator_ColumnPropNameInTable="Комплексный_показатель_преломленияColumn" msprop:Generator_UserColumnName="Комплексный_показатель_преломления" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Информация_о_сферах" />
+      <xs:field xpath="mstns:Код" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

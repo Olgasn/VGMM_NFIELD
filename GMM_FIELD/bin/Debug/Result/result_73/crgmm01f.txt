@@ -1,0 +1,8 @@
+crgmm01f.out                 (Total and individual-particle cross sections)
+input sphere-aggregate filename: Ag-Si-2s-405nm.k
+nbeta,nthet,nphai:    1 1 1
+Ranges of Euler angles: 0 0 0 0 0 0
+# of orientations averaged: 1
+            Cext           Cabs           Csca           Cpr        <cos(theta)>
+total    0,030783648    0,003936927    0,026846722    0,016191224    0,543545857
+    1    0,030783648    0,003936927    0,026846722    0,016191224    0,543545857

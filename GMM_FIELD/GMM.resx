@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="Column12.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="Column11.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="Column10.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="Column9.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="Column8.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="Column7.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="Column6.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="Column5.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="Column4.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="Column3.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="Column2.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="Column1.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>14, 9</value>
+  </metadata>
+  <metadata name="oleDbSelectCommand1.DesignTimeVisible" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="oleDbSelectCommand1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>0, 0</value>
+  </metadata>
+  <metadata name="oleDbSelectCommand1.CommandDesignTimeVisible" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <data name="oleDbSelectCommand1.CommandText" xml:space="preserve">
+    <value>SELECT        [Код_сферы], [Количество_сфер], [Описание_рассчета], [Количество_ориентаций(nbeta)], [Количество_ориентаций(nthet)], [Количество_ориентаций(nphai)], 
+                         [Ориентация(betami)], [Ориентация(betamx)], [Ориентация(thetmi)], [Ориентация(thetmx)], [Ориентация(phaimi)], [Ориентация(phaimx)], [Итерация_по_схеме_X], 
+                         [Итерация_по_схеме_Y], [Максимальное_количество_итераций], [Порядок_управления_рассеиванием], [Погрешность_ошибки], [Критерий_сходимости], 
+                         [Индекс_взаимодействия], [Длина_волны], [Дата_расчета], [Время расчета]
+FROM            GMM</value>
+  </data>
+  <metadata name="oleDbConnection1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>289, 9</value>
+  </metadata>
+  <metadata name="oleDbInsertCommand1.DesignTimeVisible" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="oleDbInsertCommand1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>0, 0</value>
+  </metadata>
+  <metadata name="oleDbInsertCommand1.CommandDesignTimeVisible" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <data name="oleDbInsertCommand1.CommandText" xml:space="preserve">
+    <value>INSERT INTO `GMM` (`Количество_сфер`, `Описание_рассчета`, `Количество_ориентаций(nbeta)`, `Количество_ориентаций(nthet)`, `Количество_ориентаций(nphai)`, `Ориентация(betami)`, `Ориентация(betamx)`, `Ориентация(thetmi)`, `Ориентация(thetmx)`, `Ориентация(phaimi)`, `Ориентация(phaimx)`, `Итерация_по_схеме_X`, `Итерация_по_схеме_Y`, `Максимальное_количество_итераций`, `Порядок_управления_рассеиванием`, `Погрешность_ошибки`, `Критерий_сходимости`, `Индекс_взаимодействия`, `Длина_волны`, `Дата_расчета`, `Время расчета`) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)</value>
+  </data>
+  <metadata name="oleDbUpdateCommand1.DesignTimeVisible" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="oleDbUpdateCommand1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>0, 0</value>
+  </metadata>
+  <metadata name="oleDbUpdateCommand1.CommandDesignTimeVisible" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <data name="oleDbUpdateCommand1.CommandText" xml:space="preserve">
+    <value>UPDATE `GMM` SET `Количество_сфер` = ?, `Описание_рассчета` = ?, `Количество_ориентаций(nbeta)` = ?, `Количество_ориентаций(nthet)` = ?, `Количество_ориентаций(nphai)` = ?, `Ориентация(betami)` = ?, `Ориентация(betamx)` = ?, `Ориентация(thetmi)` = ?, `Ориентация(thetmx)` = ?, `Ориентация(phaimi)` = ?, `Ориентация(phaimx)` = ?, `Итерация_по_схеме_X` = ?, `Итерация_по_схеме_Y` = ?, `Максимальное_количество_итераций` = ?, `Порядок_управления_рассеиванием` = ?, `Погрешность_ошибки` = ?, `Критерий_сходимости` = ?, `Индекс_взаимодействия` = ?, `Длина_волны` = ?, `Дата_расчета` = ?, `Время расчета` = ? WHERE ((`Код_сферы` = ?) AND ((? = 1 AND `Количество_сфер` IS NULL) OR (`Количество_сфер` = ?)) AND ((? = 1 AND `Описание_рассчета` IS NULL) OR (`Описание_рассчета` = ?)) AND ((? = 1 AND `Количество_ориентаций(nbeta)` IS NULL) OR (`Количество_ориентаций(nbeta)` = ?)) AND ((? = 1 AND `Количество_ориентаций(nthet)` IS NULL) OR (`Количество_ориентаций(nthet)` = ?)) AND ((? = 1 AND `Количество_ориентаций(nphai)` IS NULL) OR (`Количество_ориентаций(nphai)` = ?)) AND ((? = 1 AND `Ориентация(betami)` IS NULL) OR (`Ориентация(betami)` = ?)) AND ((? = 1 AND `Ориентация(betamx)` IS NULL) OR (`Ориентация(betamx)` = ?)) AND ((? = 1 AND `Ориентация(thetmi)` IS NULL) OR (`Ориентация(thetmi)` = ?)) AND ((? = 1 AND `Ориентация(thetmx)` IS NULL) OR (`Ориентация(thetmx)` = ?)) AND ((? = 1 AND `Ориентация(phaimi)` IS NULL) OR (`Ориентация(phaimi)` = ?)) AND ((? = 1 AND `Ориентация(phaimx)` IS NULL) OR (`Ориентация(phaimx)` = ?)) AND ((? = 1 AND `Итерация_по_схеме_X` IS NULL) OR (`Итерация_по_схеме_X` = ?)) AND ((? = 1 AND `Итерация_по_схеме_Y` IS NULL) OR (`Итерация_по_схеме_Y` = ?)) AND ((? = 1 AND `Максимальное_количество_итераций` IS NULL) OR (`Максимальное_количество_итераций` = ?)) AND ((? = 1 AND `Порядок_управления_рассеиванием` IS NULL) OR (`Порядок_управления_рассеиванием` = ?)) AND ((? = 1 AND `Погрешность_ошибки` IS NULL) OR (`Погрешность_ошибки` = ?)) AND ((? = 1 AND `Критерий_сходимости` IS NULL) OR (`Критерий_сходимости` = ?)) AND ((? = 1 AND `Индекс_взаимодействия` IS NULL) OR (`Индекс_взаимодействия` = ?)) AND ((? = 1 AND `Длина_волны` IS NULL) OR (`Длина_волны` = ?)) AND ((? = 1 AND `Дата_расчета` IS NULL) OR (`Дата_расчета` = ?)) AND ((? = 1 AND `Время расчета` IS NULL) OR (`Время расчета` = ?)))</value>
+  </data>
+  <metadata name="oleDbDeleteCommand1.DesignTimeVisible" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="oleDbDeleteCommand1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>0, 0</value>
+  </metadata>
+  <metadata name="oleDbDeleteCommand1.CommandDesignTimeVisible" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <data name="oleDbDeleteCommand1.CommandText" xml:space="preserve">
+    <value>DELETE FROM `GMM` WHERE ((`Код_сферы` = ?) AND ((? = 1 AND `Количество_сфер` IS NULL) OR (`Количество_сфер` = ?)) AND ((? = 1 AND `Описание_рассчета` IS NULL) OR (`Описание_рассчета` = ?)) AND ((? = 1 AND `Количество_ориентаций(nbeta)` IS NULL) OR (`Количество_ориентаций(nbeta)` = ?)) AND ((? = 1 AND `Количество_ориентаций(nthet)` IS NULL) OR (`Количество_ориентаций(nthet)` = ?)) AND ((? = 1 AND `Количество_ориентаций(nphai)` IS NULL) OR (`Количество_ориентаций(nphai)` = ?)) AND ((? = 1 AND `Ориентация(betami)` IS NULL) OR (`Ориентация(betami)` = ?)) AND ((? = 1 AND `Ориентация(betamx)` IS NULL) OR (`Ориентация(betamx)` = ?)) AND ((? = 1 AND `Ориентация(thetmi)` IS NULL) OR (`Ориентация(thetmi)` = ?)) AND ((? = 1 AND `Ориентация(thetmx)` IS NULL) OR (`Ориентация(thetmx)` = ?)) AND ((? = 1 AND `Ориентация(phaimi)` IS NULL) OR (`Ориентация(phaimi)` = ?)) AND ((? = 1 AND `Ориентация(phaimx)` IS NULL) OR (`Ориентация(phaimx)` = ?)) AND ((? = 1 AND `Итерация_по_схеме_X` IS NULL) OR (`Итерация_по_схеме_X` = ?)) AND ((? = 1 AND `Итерация_по_схеме_Y` IS NULL) OR (`Итерация_по_схеме_Y` = ?)) AND ((? = 1 AND `Максимальное_количество_итераций` IS NULL) OR (`Максимальное_количество_итераций` = ?)) AND ((? = 1 AND `Порядок_управления_рассеиванием` IS NULL) OR (`Порядок_управления_рассеиванием` = ?)) AND ((? = 1 AND `Погрешность_ошибки` IS NULL) OR (`Погрешность_ошибки` = ?)) AND ((? = 1 AND `Критерий_сходимости` IS NULL) OR (`Критерий_сходимости` = ?)) AND ((? = 1 AND `Индекс_взаимодействия` IS NULL) OR (`Индекс_взаимодействия` = ?)) AND ((? = 1 AND `Длина_волны` IS NULL) OR (`Длина_волны` = ?)) AND ((? = 1 AND `Дата_расчета` IS NULL) OR (`Дата_расчета` = ?)) AND ((? = 1 AND `Время расчета` IS NULL) OR (`Время расчета` = ?)))</value>
+  </data>
+  <metadata name="oleDbDataAdapter1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>129, 9</value>
+  </metadata>
+  <metadata name="oleDbSelectCommand2.DesignTimeVisible" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="oleDbSelectCommand2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>0, 0</value>
+  </metadata>
+  <metadata name="oleDbSelectCommand2.CommandDesignTimeVisible" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="oleDbConnection2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>708, 9</value>
+  </metadata>
+  <metadata name="oleDbInsertCommand2.DesignTimeVisible" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="oleDbInsertCommand2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>0, 0</value>
+  </metadata>
+  <metadata name="oleDbInsertCommand2.CommandDesignTimeVisible" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <data name="oleDbInsertCommand2.CommandText" xml:space="preserve">
+    <value>INSERT INTO `Информация_о_сферах` (`Код_сферы`, `Центр_сферы_по_координате_X`, `Центр_сферы_по_координате_Y`, `Центр_сферы_по_координате_Z`, `Радиус_сферы`, `Комплексный_показатель_преломления`) VALUES (?, ?, ?, ?, ?, ?)</value>
+  </data>
+  <metadata name="oleDbUpdateCommand2.DesignTimeVisible" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="oleDbUpdateCommand2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>0, 0</value>
+  </metadata>
+  <metadata name="oleDbUpdateCommand2.CommandDesignTimeVisible" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <data name="oleDbUpdateCommand2.CommandText" xml:space="preserve">
+    <value>UPDATE `Информация_о_сферах` SET `Код_сферы` = ?, `Центр_сферы_по_координате_X` = ?, `Центр_сферы_по_координате_Y` = ?, `Центр_сферы_по_координате_Z` = ?, `Радиус_сферы` = ?, `Комплексный_показатель_преломления` = ? WHERE ((`Код` = ?) AND ((? = 1 AND `Код_сферы` IS NULL) OR (`Код_сферы` = ?)) AND ((? = 1 AND `Центр_сферы_по_координате_X` IS NULL) OR (`Центр_сферы_по_координате_X` = ?)) AND ((? = 1 AND `Центр_сферы_по_координате_Y` IS NULL) OR (`Центр_сферы_по_координате_Y` = ?)) AND ((? = 1 AND `Центр_сферы_по_координате_Z` IS NULL) OR (`Центр_сферы_по_координате_Z` = ?)) AND ((? = 1 AND `Радиус_сферы` IS NULL) OR (`Радиус_сферы` = ?)) AND ((? = 1 AND `Комплексный_показатель_преломления` IS NULL) OR (`Комплексный_показатель_преломления` = ?)))</value>
+  </data>
+  <metadata name="oleDbDeleteCommand2.DesignTimeVisible" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="oleDbDeleteCommand2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>0, 0</value>
+  </metadata>
+  <metadata name="oleDbDeleteCommand2.CommandDesignTimeVisible" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <data name="oleDbDeleteCommand2.CommandText" xml:space="preserve">
+    <value>DELETE FROM `Информация_о_сферах` WHERE ((`Код` = ?) AND ((? = 1 AND `Код_сферы` IS NULL) OR (`Код_сферы` = ?)) AND ((? = 1 AND `Центр_сферы_по_координате_X` IS NULL) OR (`Центр_сферы_по_координате_X` = ?)) AND ((? = 1 AND `Центр_сферы_по_координате_Y` IS NULL) OR (`Центр_сферы_по_координате_Y` = ?)) AND ((? = 1 AND `Центр_сферы_по_координате_Z` IS NULL) OR (`Центр_сферы_по_координате_Z` = ?)) AND ((? = 1 AND `Радиус_сферы` IS NULL) OR (`Радиус_сферы` = ?)) AND ((? = 1 AND `Комплексный_показатель_преломления` IS NULL) OR (`Комплексный_показатель_преломления` = ?)))</value>
+  </data>
+  <metadata name="oleDbDataAdapter2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>548, 9</value>
+  </metadata>
+  <metadata name="dataSet21.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>861, 9</value>
+  </metadata>
+  <metadata name="dataSet11.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 48</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>78</value>
+  </metadata>
+</root>

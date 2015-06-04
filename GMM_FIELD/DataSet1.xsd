@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DataSet1" msprop:Generator_DataSetName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="GMM" msprop:Generator_TableClassName="GMMDataTable" msprop:Generator_TableVarName="tableGMM" msprop:Generator_TablePropName="GMM" msprop:Generator_RowDeletingName="GMMRowDeleting" msprop:Generator_RowChangingName="GMMRowChanging" msprop:Generator_RowEvHandlerName="GMMRowChangeEventHandler" msprop:Generator_RowDeletedName="GMMRowDeleted" msprop:Generator_UserTableName="GMM" msprop:Generator_RowChangedName="GMMRowChanged" msprop:Generator_RowEvArgName="GMMRowChangeEvent" msprop:Generator_RowClassName="GMMRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Код_сферы" msdata:AutoIncrement="true" msprop:Generator_ColumnVarNameInTable="columnКод_сферы" msprop:Generator_ColumnPropNameInRow="Код_сферы" msprop:Generator_ColumnPropNameInTable="Код_сферыColumn" msprop:Generator_UserColumnName="Код_сферы" type="xs:int" />
+              <xs:element name="Количество_сфер" msprop:Generator_ColumnVarNameInTable="columnКоличество_сфер" msprop:Generator_ColumnPropNameInRow="Количество_сфер" msprop:Generator_ColumnPropNameInTable="Количество_сферColumn" msprop:Generator_UserColumnName="Количество_сфер" type="xs:int" minOccurs="0" />
+              <xs:element name="Описание_рассчета" msprop:Generator_ColumnVarNameInTable="columnОписание_рассчета" msprop:Generator_ColumnPropNameInRow="Описание_рассчета" msprop:Generator_ColumnPropNameInTable="Описание_рассчетаColumn" msprop:Generator_UserColumnName="Описание_рассчета" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Количество_ориентаций_x0028_nbeta_x0029_" msprop:Generator_ColumnVarNameInTable="_columnКоличество_ориентаций_nbeta_" msprop:Generator_ColumnPropNameInRow="_Количество_ориентаций_nbeta_" msprop:Generator_ColumnPropNameInTable="_Количество_ориентаций_nbeta_Column" msprop:Generator_UserColumnName="Количество_ориентаций(nbeta)" type="xs:int" minOccurs="0" />
+              <xs:element name="Количество_ориентаций_x0028_nthet_x0029_" msprop:Generator_ColumnVarNameInTable="_columnКоличество_ориентаций_nthet_" msprop:Generator_ColumnPropNameInRow="_Количество_ориентаций_nthet_" msprop:Generator_ColumnPropNameInTable="_Количество_ориентаций_nthet_Column" msprop:Generator_UserColumnName="Количество_ориентаций(nthet)" type="xs:int" minOccurs="0" />
+              <xs:element name="Количество_ориентаций_x0028_nphai_x0029_" msprop:Generator_ColumnVarNameInTable="_columnКоличество_ориентаций_nphai_" msprop:Generator_ColumnPropNameInRow="_Количество_ориентаций_nphai_" msprop:Generator_ColumnPropNameInTable="_Количество_ориентаций_nphai_Column" msprop:Generator_UserColumnName="Количество_ориентаций(nphai)" type="xs:int" minOccurs="0" />
+              <xs:element name="Ориентация_x0028_betami_x0029_" msprop:Generator_ColumnVarNameInTable="_columnОриентация_betami_" msprop:Generator_ColumnPropNameInRow="_Ориентация_betami_" msprop:Generator_ColumnPropNameInTable="_Ориентация_betami_Column" msprop:Generator_UserColumnName="Ориентация(betami)" type="xs:int" minOccurs="0" />
+              <xs:element name="Ориентация_x0028_betamx_x0029_" msprop:Generator_ColumnVarNameInTable="_columnОриентация_betamx_" msprop:Generator_ColumnPropNameInRow="_Ориентация_betamx_" msprop:Generator_ColumnPropNameInTable="_Ориентация_betamx_Column" msprop:Generator_UserColumnName="Ориентация(betamx)" type="xs:int" minOccurs="0" />
+              <xs:element name="Ориентация_x0028_thetmi_x0029_" msprop:Generator_ColumnVarNameInTable="_columnОриентация_thetmi_" msprop:Generator_ColumnPropNameInRow="_Ориентация_thetmi_" msprop:Generator_ColumnPropNameInTable="_Ориентация_thetmi_Column" msprop:Generator_UserColumnName="Ориентация(thetmi)" type="xs:int" minOccurs="0" />
+              <xs:element name="Ориентация_x0028_thetmx_x0029_" msprop:Generator_ColumnVarNameInTable="_columnОриентация_thetmx_" msprop:Generator_ColumnPropNameInRow="_Ориентация_thetmx_" msprop:Generator_ColumnPropNameInTable="_Ориентация_thetmx_Column" msprop:Generator_UserColumnName="Ориентация(thetmx)" type="xs:int" minOccurs="0" />
+              <xs:element name="Ориентация_x0028_phaimi_x0029_" msprop:Generator_ColumnVarNameInTable="_columnОриентация_phaimi_" msprop:Generator_ColumnPropNameInRow="_Ориентация_phaimi_" msprop:Generator_ColumnPropNameInTable="_Ориентация_phaimi_Column" msprop:Generator_UserColumnName="Ориентация(phaimi)" type="xs:int" minOccurs="0" />
+              <xs:element name="Ориентация_x0028_phaimx_x0029_" msprop:Generator_ColumnVarNameInTable="_columnОриентация_phaimx_" msprop:Generator_ColumnPropNameInRow="_Ориентация_phaimx_" msprop:Generator_ColumnPropNameInTable="_Ориентация_phaimx_Column" msprop:Generator_UserColumnName="Ориентация(phaimx)" type="xs:int" minOccurs="0" />
+              <xs:element name="Итерация_по_схеме_X" msprop:Generator_ColumnVarNameInTable="columnИтерация_по_схеме_X" msprop:Generator_ColumnPropNameInRow="Итерация_по_схеме_X" msprop:Generator_ColumnPropNameInTable="Итерация_по_схеме_XColumn" msprop:Generator_UserColumnName="Итерация_по_схеме_X" type="xs:double" minOccurs="0" />
+              <xs:element name="Итерация_по_схеме_Y" msprop:Generator_ColumnVarNameInTable="columnИтерация_по_схеме_Y" msprop:Generator_ColumnPropNameInRow="Итерация_по_схеме_Y" msprop:Generator_ColumnPropNameInTable="Итерация_по_схеме_YColumn" msprop:Generator_UserColumnName="Итерация_по_схеме_Y" type="xs:double" minOccurs="0" />
+              <xs:element name="Максимальное_количество_итераций" msprop:Generator_ColumnVarNameInTable="columnМаксимальное_количество_итераций" msprop:Generator_ColumnPropNameInRow="Максимальное_количество_итераций" msprop:Generator_ColumnPropNameInTable="Максимальное_количество_итерацийColumn" msprop:Generator_UserColumnName="Максимальное_количество_итераций" type="xs:int" minOccurs="0" />
+              <xs:element name="Порядок_управления_рассеиванием" msprop:Generator_ColumnVarNameInTable="columnПорядок_управления_рассеиванием" msprop:Generator_ColumnPropNameInRow="Порядок_управления_рассеиванием" msprop:Generator_ColumnPropNameInTable="Порядок_управления_рассеиваниемColumn" msprop:Generator_UserColumnName="Порядок_управления_рассеиванием" type="xs:int" minOccurs="0" />
+              <xs:element name="Погрешность_ошибки" msprop:Generator_ColumnVarNameInTable="columnПогрешность_ошибки" msprop:Generator_ColumnPropNameInRow="Погрешность_ошибки" msprop:Generator_ColumnPropNameInTable="Погрешность_ошибкиColumn" msprop:Generator_UserColumnName="Погрешность_ошибки" type="xs:double" minOccurs="0" />
+              <xs:element name="Критерий_сходимости" msprop:Generator_ColumnVarNameInTable="columnКритерий_сходимости" msprop:Generator_ColumnPropNameInRow="Критерий_сходимости" msprop:Generator_ColumnPropNameInTable="Критерий_сходимостиColumn" msprop:Generator_UserColumnName="Критерий_сходимости" type="xs:double" minOccurs="0" />
+              <xs:element name="Индекс_взаимодействия" msprop:Generator_ColumnVarNameInTable="columnИндекс_взаимодействия" msprop:Generator_ColumnPropNameInRow="Индекс_взаимодействия" msprop:Generator_ColumnPropNameInTable="Индекс_взаимодействияColumn" msprop:Generator_UserColumnName="Индекс_взаимодействия" type="xs:int" minOccurs="0" />
+              <xs:element name="Длина_волны" msprop:Generator_ColumnVarNameInTable="columnДлина_волны" msprop:Generator_ColumnPropNameInRow="Длина_волны" msprop:Generator_ColumnPropNameInTable="Длина_волныColumn" msprop:Generator_UserColumnName="Длина_волны" type="xs:double" minOccurs="0" />
+              <xs:element name="Дата_расчета" msprop:Generator_ColumnVarNameInTable="columnДата_расчета" msprop:Generator_ColumnPropNameInRow="Дата_расчета" msprop:Generator_ColumnPropNameInTable="Дата_расчетаColumn" msprop:Generator_UserColumnName="Дата_расчета" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Время_x0020_расчета" msprop:Generator_ColumnVarNameInTable="columnВремя_расчета" msprop:Generator_ColumnPropNameInRow="Время_расчета" msprop:Generator_ColumnPropNameInTable="Время_расчетаColumn" msprop:Generator_UserColumnName="Время расчета" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:GMM" />
+      <xs:field xpath="mstns:Код_сферы" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

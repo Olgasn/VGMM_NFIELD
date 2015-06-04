@@ -1,0 +1,3 @@
+number of grid points (nx, ny, nz):   200     1     1
+grid corner (x0, y0, z0):   -0,22     0     0
+grid step (dx, dy, dz):   0,00221105527638191     NaN     NaN
